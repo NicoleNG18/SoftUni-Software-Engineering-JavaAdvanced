@@ -10,4 +10,6 @@ This repository includes the problems solved during the Java Advanced course. I 
   -Java Advanced - May 2022 (Grade: 6.00)
 
   -Java OOP - June 2022 (Grade: 6.00)
+  
+  -MySQL - September 2022 (Grade: 6.00)
 
