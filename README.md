@@ -1,7 +1,7 @@
 # SoftUni-Software-Engineering-JavaAdvanced
 SoftUni | Courses | Solutions
 
-This repository includes the problems solved during the Fundamentals course. I have already completed these courses:
+This repository includes the problems solved during the Java Advanced course. I have already completed these courses:
 
   -Programming Basics with Java - June 2020 (Grade: 6.00)
 
