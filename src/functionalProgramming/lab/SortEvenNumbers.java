@@ -1,4 +1,4 @@
-package ready;
+package functionalProgramming.lab;
 
 import java.util.ArrayList;
 import java.util.Arrays;
