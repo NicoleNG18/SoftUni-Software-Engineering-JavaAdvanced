@@ -1,7 +1,5 @@
 package functionalProgramming.lab;
 
-package ready;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
